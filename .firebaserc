@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ctae-forum",
+    "foro": "prueba-foro-16"
+  },
+  "targets": {},
+  "etags": {}
+}
